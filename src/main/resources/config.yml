@@ -1,0 +1,11 @@
+heart-item:
+  material: NETHER_STAR
+  name: "&cSerce Zycia"
+  lore:
+    - "&7Kliknij prawym przyciskiem myszy,"
+    - "&7aby dodac sobie serce!"
+  custom-model-data: 1
+  glint: true
+
+max-hearts: 20 # Maksymalna ilosc serc
+cooldown-seconds: 300 # Cooldown ile sekund musi minac miedzy zabojstwem tego samego gracza by otrzymac z niego serce
